@@ -68,7 +68,7 @@ Advertising-related data handled by Google AdMob is retained and deleted accordi
 
 ## Contact
 
-If you have questions about this Privacy Policy, contact: **[CONTACT EMAIL — REPLACE BEFORE RELEASE]**
+If you have questions about this Privacy Policy, contact: **emircanyetkin91@gmail.com**
 
 ## Changes to This Policy
 
